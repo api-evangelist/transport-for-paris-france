@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://data.ratp.fr/api/v1/console/datasets/1.0/search/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/transport-for-paris-france-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/transport-for-paris-france-domain-security.yml
   - type: Website
     url: http://data.ratp.fr/api/v1/console/datasets/1.0/search/
   - type: PublicAPIsListing
