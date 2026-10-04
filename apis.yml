@@ -39,7 +39,6 @@ apis:
   - name: Transport for Paris, France
     description: "RATP Open Data API"
     humanURL: http://data.ratp.fr/api/v1/console/datasets/1.0/search/
-    baseURL: http://data.ratp.fr/api/v1/console/datasets/1.0/search/
     tags:
       - Transportation
     properties:
